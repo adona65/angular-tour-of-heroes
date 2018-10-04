@@ -1,3 +1,7 @@
+The goal of this repository is to follow the angular "tour of heroes" tutorial available on https://angular.io for learning angular 6.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
 # AngularTourOfHeroes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.4.
